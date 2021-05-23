@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "question": "What does the \"MP\" stand for in MP3?",
+    "answers": {
+      "1001": "Music Player",
+      "1002": "Moving Picture",
+      "1003": "Multi Pass",
+      "1004": "Micro Point"
+    },
+    "correct_answer": "Moving Picture"
+  },
+  {
+    "id": "2",
+    "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "answers": {
+      "1001": "512",
+      "1002": "1024",
+      "1003": "1000",
+      "1004": "500"
+      },
+    "correct_answer": "1000"
+  },
+  {
+    "id": "3",
+    "question": "What does GHz stand for?",
+    "answers": {
+      "1001": "Gigahertz",
+      "1002": "Gigahotz",
+      "1003": "Gigahetz",
+      "1004": "Gigahatz"
+    },
+    "correct_answer": "Gigahertz"
+  },
+  {
+    "id": "4",
+    "question": "HTML is what type of language?",
+    "answers": {
+      "1001": "Macro Language",
+      "1002": "Programming Language",
+      "1003": "Markup Language",
+      "1004": "Scripting Language"
+    },
+    "correct_answer": "Markup Language"
+  },
+  {
+    "id": "5",
+    "question": "If you were to code software in this language you'd only be able to type 0's and 1's.",
+    "answers": {
+      "1001": "JavaScript",
+      "1002": "C++",
+      "1003": "Python",
+      "1004": "Binary"
+    },
+    "correct_answer": "Binary"
+  },
+  {
+    "id": "6",
+    "question": "What does the Prt Sc button do?",
+    "answers": {
+      "1001": "Nothing",
+      "1002": "Saves a .png file of what's on the screen in your screenshots folder in photos",
+      "1003": "Captures what's on the screen and copies it to your clipboard",
+      "1004": "Closes all windows"
+    },
+    "correct_answer": "Captures what's on the screen and copies it to your clipboard"
+  },
+  {
+    "id": "7",
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "answers": {
+      "1001": ".svg",
+      "1002": ".png",
+      "1003": ".gif",
+      "1004": ".jpeg"
+    },
+    "correct_answer": ".svg"
+  },
+  {
+    "id": "8",
+    "question": "What is the code name for the mobile operating system Android 7.0?",
+    "answers": {
+      "1001": "Ice Cream Sandwich",
+      "1002": "Nougat",
+      "1003": "Jelly Bean",
+      "1004": "Marshmallow"
+    },
+    "correct_answer": "Nougat"
+  },
+  {
+    "id": "9",
+    "question": "What is the domain name for the country Tuvalu?",
+    "answers": {
+      "1001": ".tv",
+      "1002": ".tu",
+      "1003": ".tt",
+      "1004": ".tl"
+    },
+    "correct_answer": ".tv"
+  },
+  {
+    "id": "10",
+    "question": "How many kilobytes in one gigabyte?",
+    "answers": {
+      "1001": "1000000",
+      "1002": "1024",
+      "1003": "1000",
+      "1004": "1048576"
+    },
+    "correct_answer": "1000000"
+  },
+  {
+    "id": "11",
+    "question": "On Twitter, what is the character limit for a Tweet?",
+    "answers": {
+      "1001": "100",
+      "1002": "120",
+      "1003": "160",
+      "1004": "140"
+    },
+    "correct_answer": "140"
+  },
+  {
+    "id": "12",
+    "question": "Which programming language shares its name with an island in Indonesia?",
+    "answers": {
+      "1001": "Jakarta",
+      "1002": "Python",
+      "1003": "C",
+      "1004": "Java"
+    },
+    "correct_answer": "Java"
+  },
+  {
+    "id": "13",
+    "question": "How long is an IPv6 address?",
+    "answers": {
+      "1001": "32 bits",
+      "1002": "64 bits",
+      "1003": "128 bits",
+      "1004": "16 bits"
+    },
+    "correct_answer": "128 bits"
+  },
+  {
+    "id": "14",
+    "question": "In computing, what does LAN stand for?",
+    "answers": {
+      "1001": "Long Antenna Node",
+      "1002": "Local Area Network",
+      "1003": "Light Access Node",
+      "1004": "Land Address Navigation"
+    },
+    "correct_answer": "Local Area Network"
+  },
+  {
+    "id": "15",
+    "question": "What does the computer software acronym JVM stand for?",
+    "answers": {
+      "1001": "Java Virtual Machine",
+      "1002": "Java Vendor Machine",
+      "1003": "Java Visual Machine",
+      "1004": "Just Virtual Machine"
+    },
+    "correct_answer": "Java Virtual Machine"
+  }
+]

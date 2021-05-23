@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "question": "The Harvard architecture for micro-controllers added which additional bus?",
+    "answers": {
+      "1001": "Address",
+      "1002": "Data",
+      "1003": "Instruction",
+      "1004": "Control"
+    },
+    "correct_answer": "Instruction"
+  },
+  {
+    "id": "2",
+    "question": "How many Hz does the video standard PAL support?",
+    "answers": {
+      "1001": "50",
+      "1002": "59",
+      "1003": "60",
+      "1004": "25"
+    },
+    "correct_answer": "50"
+  },
+  {
+    "id": "3",
+    "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+    "answers": {
+      "1001": "Tuvalu",
+      "1002": "Micronesia",
+      "1003": "Fiji",
+      "1004": "Marshall Islands"
+    },
+    "correct_answer": "Micronesia"
+  },
+  {
+    "id": "4",
+    "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+    "answers": {
+      "1001": "Heartbleed",
+      "1002": "Shellshock",
+      "1003": "Shellscript",
+      "1004": "Corrupted Blood"
+    },
+    "correct_answer": "Heartbleed"
+  },
+  {
+    "id": "5",
+    "question": "America Online (AOL) started out as which of these online service providers?",
+    "answers": {
+      "1001": "GEnie",
+      "1002": "Prodigy",
+      "1003": "CompuServe",
+      "1004": "Quantum Link"
+    },
+    "correct_answer": "Heartbleed"
+  },
+  {
+    "id": "6",
+    "question": "What internet protocol was documented in RFC 1459?",
+    "answers": {
+      "1001": "HTTP",
+      "1002": "IRC",
+      "1003": "HTTPS",
+      "1004": "FTP"
+    },
+    "correct_answer": "IRC"
+  },
+  {
+    "id": "7",
+    "question": "What does the International System of Quantities refer 1024 bytes as?",
+    "answers": {
+      "1001": "Kibibyte",
+      "1002": "Kylobyte",
+      "1003": "Kilobyte",
+      "1004": "Kelobyte"
+    },
+    "correct_answer": "Kibibyte"
+  },
+  {
+    "id": "8",
+    "question": "Which RAID array type is associated with data mirroring?",
+    "answers": {
+      "1001": "RAID 10",
+      "1002": "RAID 1",
+      "1003": "RAID 0",
+      "1004": "RAID 5"
+    },
+    "correct_answer": "RAID 1"
+  },
+  {
+    "id": "9",
+    "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+    "answers": {
+      "1001": "Construct",
+      "1002": "Torque 2D",
+      "1003": "Stencyl",
+      "1004": "Game Maker"
+    },
+    "correct_answer": "Game Maker"
+  },
+  {
+    "id": "10",
+    "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+    "answers": {
+      "1001": "Insecure Direct Object References",
+      "1002": "Injection",
+      "1003": "Cross-Site Scripting",
+      "1004": "Broken Authentication"
+    },
+    "correct_answer": "Injection"
+  },
+  {
+    "id": "11",
+    "question": "Who invented the 'Spanning Tree Protocol'?",
+    "answers": {
+      "1001": "Radia Perlman",
+      "1002": "Paul Vixie",
+      "1003": "Vint Cerf",
+      "1004": "Michael Roberts"
+    },
+    "correct_answer": "Radia Perlman"
+  },
+  {
+    "id": "12",
+    "question": "According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:",
+    "answers": {
+      "1001": "A'B + B'A",
+      "1002":  "A'B'",
+      "1003": "A' + B'",
+      "1004": "AB' + AB"
+    },
+    "correct_answer": "A' + B'"
+  },
+  {
+    "id": "13",
+    "question": "The acronym \"RIP\" stands for which of these?",
+    "answers": {
+      "1001": "Routine Inspection Protocol",
+      "1002":  "Regular Interval Processes",
+      "1003": "Routing Information Protocol",
+      "1004": "Runtime Instance Processes"
+    },
+    "correct_answer": "Routing Information Protocol"
+  },
+  {
+    "id": "14",
+    "question": "Which of these is not a layer in the OSI model for data communications?",
+    "answers": {
+      "1001": "Physical Layer",
+      "1002":  "Transport Layer",
+      "1003": "Application Layer",
+      "1004": "Connection Layer"
+    },
+    "correct_answer": "Connection Layer"
+  },
+  {
+    "id": "15",
+    "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+    "answers": {
+      "1001": "ADPCM Sampler",
+      "1002":  "FM Synthesizer",
+      "1003": "Programmable Sound Generator (PSG)",
+      "1004": "PCM Sampler"
+    },
+    "correct_answer": "ADPCM Sampler"
+  }
+]

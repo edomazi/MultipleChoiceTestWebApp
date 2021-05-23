@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "question": "Which internet company began life as an online bookstore called 'Cadabra'?",
+    "answers": {
+      "1001": "eBay",
+      "1002": "Amazon",
+      "1003": "Overstock",
+      "1004": "Shopify"
+    },
+    "correct_answer": "Amazon"
+  },
+  {
+    "id": "2",
+    "question": "What five letter word is the motto of the IBM Computer company?",
+    "answers": {
+      "1001": "Click",
+      "1002": "Logic",
+      "1003": "Think",
+      "1004": "Pixel"
+    },
+    "correct_answer": "Think"
+  },
+  {
+    "id": "3",
+    "question": "On which computer hardware device is the BIOS chip located?",
+    "answers": {
+      "1001": "Motherboard",
+      "1002": "Hard Disk Drive",
+      "1003": "Central Processing Unit",
+      "1004": "Graphics Processing Unit"
+    },
+    "correct_answer": "Motherboard"
+  },
+  {
+    "id": "4",
+    "question": "What was the name given to Android 4.3?",
+    "answers": {
+      "1001": "Lollipop",
+      "1002": "Jelly Bean",
+      "1003": "Nutella",
+      "1004": "Froyo"
+    },
+    "correct_answer": "Jelly Bean"
+  },
+  {
+    "id": "5",
+    "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+    "answers": {
+      "1001": "Washington",
+      "1002": "Colorado",
+      "1003": "Arizona",
+      "1004": "New Mexico"
+    },
+    "correct_answer": "New Mexico"
+  },
+  {
+    "id": "6",
+    "question": "Generally, which component of a computer draws the most power?",
+    "answers": {
+      "1001": "Hard Drive",
+      "1002": "Power Supply",
+      "1003": "Monitor",
+      "1004": "Video Card"
+    },
+    "correct_answer": "Video Card"
+  },
+  {
+    "id": "7",
+    "question": "How many cores does the Intel i7-6950X have?",
+    "answers": {
+      "1001": "12",
+      "1002": "10",
+      "1003": "4",
+      "1004": "8"
+    },
+    "correct_answer": "10"
+  },
+  {
+    "id": "8",
+    "question": "Which one of these is not an official development name for a Ubuntu release?",
+    "answers": {
+      "1001": "Trusty Tahr",
+      "1002": "Mystic Mansion",
+      "1003": "Utopic Unicorn",
+      "1004": "Wily Werewolf"
+    },
+    "correct_answer": "Mystic Mansion"
+  },
+  {
+    "id": "9",
+    "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+    "answers": {
+      "1001": "PHP",
+      "1002": "C#",
+      "1003": "Python",
+      "1004": "JavaScript"
+    },
+    "correct_answer": "JavaScript"
+  },
+  {
+    "id": "10",
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "answers": {
+      "1001": "8 Gb/s",
+      "1002": "1 Gb/s",
+      "1003": "5 Gb/s",
+      "1004": "10 Gb/s"
+    },
+    "correct_answer": "10 Gb/s"
+  },
+  {
+    "id": "11",
+    "question": "What does the term GPU stand for?",
+    "answers": {
+      "1001": "Graphics Processing Unit",
+      "1002": "Gaming Processor Unit",
+      "1003": "Graphite Producing Unit",
+      "1004": "Graphical Proprietary Unit"
+    },
+    "correct_answer": "Graphics Processing Unit"
+  },
+  {
+    "id": "12",
+    "question": "What was the first Android version specifically optimized for tablets?",
+    "answers": {
+      "1001": "Marshmellow",
+      "1002": "Eclair",
+      "1003": "Honeycomb",
+      "1004": "Froyo"
+    },
+    "correct_answer": "Honeycomb"
+  },
+  {
+    "id": "13",
+    "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+    "answers": {
+      "1001": "2016",
+      "1002": "2009",
+      "1003": "2011",
+      "1004": "2013"
+    },
+    "correct_answer": "2016"
+  },
+  {
+    "id": "14",
+    "question": "Which programming language was developed by Sun Microsystems in 1995?",
+    "answers": {
+      "1001": "Solaris OS",
+      "1002": "Java",
+      "1003": "C++",
+      "1004": "Python"
+    },
+    "correct_answer": "Java"
+  },
+  {
+    "id": "15",
+    "question": "In programming, what do you call functions with the same name but different implementations?",
+    "answers": {
+      "1001": "Overriding",
+      "1002": "Abstracting",
+      "1003": "Inheriting",
+      "1004": "Overloading"
+    },
+    "correct_answer": "Overloading"
+  }
+]
